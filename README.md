@@ -169,17 +169,6 @@ python figures/fig8/make_fig8.py \
 
 MIT License. See [LICENSE](LICENSE).
 
-## Citation
-
-```bibtex
-@article{kappa-profiles-2026,
-  author  = {Jisung Jung},
-  title   = {κ-Profiles for Detecting Context-Dependent Phase Structure in Z-Diagonal Unitaries},
-  journal = {Quantum},
-  year    = {2026},
-  note    = {Submitted}
-}
-```
 
 ## Contact
 
