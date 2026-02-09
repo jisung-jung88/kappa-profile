@@ -2,9 +2,8 @@
 
 Code and data for reproducing the results in:
 
-> **κ-Profiles for Detecting Context-Dependent Phase Structure in Z-Diagonal Unitaries**  
-> Jisung Jung (2026)  
-> *Submitted to Quantum*
+> **Context-dependent phase structure in Z-diagonal unitaries detected via plaquette curvature profiles**  
+> Jisung Jung (2026) 
 
 ## Overview
 
